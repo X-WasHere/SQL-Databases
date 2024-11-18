@@ -1,4 +1,5 @@
 # SQL Databases
+Some basic databases I created when learning SQL.
 
 ## Mario Database
 
